@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EcoFood.Api.Tests/EcoFood.Api.Tests.csproj" />
+  <Project Path="EcoFood.Api/EcoFood.Api.csproj" />
+</Solution>
